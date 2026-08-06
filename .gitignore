@@ -1,0 +1,39 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+*.xcworkspace/xcuserdata/
+*.idea/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# macOS
+.DS_Store
+*/.DS_Store
+
+# User-specific
+*.swp
+*~
+
+# App-specific
+*.log
+
+# Temporary
+*.tmp
+*.temp
+
+# Ignore Xcode user settings
+abcText2Speech.xcodeproj/project.xcworkspace/xcuserdata/
