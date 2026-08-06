@@ -4,9 +4,7 @@ A custom iOS keyboard that speaks what you type — a lightweight assistive comm
 
 ## About
 
-Type2Speak began as a way to help a friend who is nonverbal. The idea was simple: instead of needing a separate, often expensive AAC app, let someone type a message on a normal-feeling keyboard and have it spoken aloud right where they already are.
-
-It's built as a system-wide iOS keyboard extension, so it can be enabled once and used across apps. I've been developing it since June 2024 and refining it with feedback from families and speech-language specialists who work with nonverbal users.
+Type2Speak began as a way to help a friend who is nonverbal. The idea was simple: instead of needing a separate, often expensive AAC app, let someone type a message on a normal-feeling keyboard and have it spoken aloud right where they already are. 
 
 ## Status
 
@@ -18,13 +16,6 @@ It's built as a system-wide iOS keyboard extension, so it can be enabled once an
 - **Selectable voices** — built on iOS speech synthesis with multiple voice options. <!-- TODO: confirm the exact TTS/voice library you used, e.g. AVSpeechSynthesizer, and any custom voices -->
 - **Works as a system keyboard** — enable it once, use it across apps.
 
-<!-- TODO: add any other features you've actually built, e.g. saved/quick phrases, adjustable speech rate, larger touch targets. Only list what exists. -->
-
-## Screenshots
-
-<!-- TODO: drop in 1–2 screenshots or a short GIF of it in use. This does more than any paragraph — add it before sharing the repo. -->
-
-_Coming soon._
 
 ## Tech
 
